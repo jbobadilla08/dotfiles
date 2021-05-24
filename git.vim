@@ -8,4 +8,5 @@ git commit -m "descripcion" "guarda los archivos (pasa los archivos de staging a
 git diff "visualiza los cambios comparando con el archivo version anterior
 git reset HEAD <archivo>  "pasa el archivo de staging area al working directory
 git checkout . "regresa una version anterior del commit
+git log "visualiza el historial de cambios en la rama master
 
